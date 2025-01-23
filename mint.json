@@ -48,7 +48,9 @@
     {
       "group": "Início",
       "pages": [
-        "Introdução"
+        "introducao",
+        "quickstart",
+        "development"
       ]
     },
     {
