@@ -48,13 +48,11 @@
     {
       "group": "Início",
       "pages": [
-        "introducao",
-        "quickstart",
-        "development"
+        "introducao"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Tutoriais",
       "pages": [
         "essentials/markdown",
         "essentials/code",
