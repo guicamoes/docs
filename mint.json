@@ -17,38 +17,38 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contato",
+      "url": "https://www.sb4host.com.br/contato"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Área do Cliente",
+    "url": "https://cliente.sb4host.com.br/login"
   },
+  "tabs": [
+  ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/sb4host/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/wfx9C73"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Ticket",
+      "icon": "ticket",
+      "url": "https://cliente.sb4host.com.br/submitticket.php"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Início",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Introdução"
       ]
     },
     {
