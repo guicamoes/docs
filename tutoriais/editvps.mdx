@@ -14,8 +14,15 @@ icon: "key"
 
 Best use to subsection headers.
 
-```md
-### Subtitles
+```javascript
+export default function StyledList({ children }) {
+  return (
+    <ol style={{ listStyleType: "decimal", color: "#888", fontWeight: "bold" }}>
+      {children}
+    </ol>
+  );
+}
+
 ```
 
 <Tip>
