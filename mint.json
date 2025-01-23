@@ -23,7 +23,6 @@
   ],
   "topbarCtaButton": {
     "name": "Área do Cliente",
-    "color": "blue",
     "url": "https://cliente.sb4host.com.br/login"
   },
   "tabs": [
