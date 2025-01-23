@@ -54,10 +54,10 @@
     {
       "group": "Tutoriais",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings"
+        "tutoriais/editvps",
+        "tutoriais/formatar",
+        "tutoriais/upgrade",
+        "tutoriais/connect"
       ]
     },
     {
